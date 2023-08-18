@@ -1,8 +1,6 @@
-# the mono
+# the mono (beta)
 This is "The Mono". An everything platform from sharing texts to posting videos and more!
 Made via Astro with Tabler library.
-
-> "The Mono" is in beta.
 
 ## Support for different platforms
 
