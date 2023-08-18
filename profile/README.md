@@ -15,4 +15,4 @@ iOS | No**
 
 *Provied information on 08/18/2023 from Tabler. See documentation on Tabler, the UI Library: [Link](https://tabler.io/docs/getting-started/browser-support)
 
-**Users can install the apps via the PWA Feature.
+**Users can install the app via the PWA Feature.
